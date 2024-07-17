@@ -1,2 +1,12 @@
 node_modules
-.vitepress
+.vitepress/cache
+.vitepress/dist
+*.log
+*.tgz
+.DS_Store
+.temp
+.vite_opt_cache
+.vscode
+dist
+cache
+temp
